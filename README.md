@@ -9,7 +9,7 @@ Este é um aplicativo em Python que permite converter arquivos de áudio (MP3, W
 2. Clone o repositório ou faça o download dos arquivos.
 
 ```shell
-git clone https://github.com/seu-usuario/conversor-audio-texto.git
+git clone https://github.com/guiferreira/conversor-audio-texto
 ```
 
 3. Acesse o diretório do projeto:
