@@ -53,8 +53,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
-
-
-Lembre-se de substituir `seu-usuario` no link do clone do Git pelo seu nome de usuário real.
-
-Espero que isso ajude! Se você tiver mais perguntas, fique à vontade para perguntar.
