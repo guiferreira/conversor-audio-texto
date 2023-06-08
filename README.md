@@ -1,6 +1,4 @@
-Certamente! Aqui está um exemplo de conteúdo para o arquivo README.md:
 
-```
 # Conversor de Áudio para Texto
 
 Este é um aplicativo em Python que permite converter arquivos de áudio (MP3, WAV, MP4, M4A) em texto transcrita. Ele também oferece recursos adicionais, como quebra de áudio em partes de 1 minuto e geração de um PDF contendo o texto transcrita.
@@ -55,7 +53,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
-```
+
 
 Lembre-se de substituir `seu-usuario` no link do clone do Git pelo seu nome de usuário real.
 
