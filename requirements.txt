@@ -1,0 +1,5 @@
+pydub==0.26.0
+PyQt5==5.15.4
+SpeechRecognition==3.8.1
+reportlab==3.6.1
+
